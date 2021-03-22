@@ -1,0 +1,21 @@
+.title
+{
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.blue
+{
+  background-color: blue;
+}
+
+.stButton>button {
+    color: white;
+    border-radius: 50%;
+    border-radius: 0.4rem;
+    background-color: blue;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
