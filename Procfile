@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ens_features.py
+web:  sh  setup.sh  &&  streamlit  run  ens_features.py
